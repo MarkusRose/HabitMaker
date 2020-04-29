@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HabitMaker</string>
+    <string name="addNewHabitButton">Add</string>
+    <string-array name="habits">
+        <item>Practice Coding</item>
+        <item>Make Music</item>
+        <item>Learn Language</item>
+        <item>Exercise</item>
+    </string-array>
+
+    <string name="nameNewHabit">New Habit Name:</string>
+    <string name="commitButton">Commit</string>
+</resources>
